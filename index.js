@@ -61,31 +61,18 @@ const ART = [
 ]
 
 const SEARCHES = [
-  'jshop',
-  'ptoszek',
-  'ptak',
-  'kanarek',
-  'jaczup'
+  'UTTP BRASIL',
+  'UTTPBR'
 ]
 
 const VIDEOS = [
-  'media/videos/jaczup.mp4',
-  'media/videos/duck.mp4',
-  'media/videos/rickroll.mp4',
-  'media/videos/golomb.mp4',
-  'media/videos/mushbox.mp4',
-  'media/videos/clearmax.mp4',
-  'media/videos/freestrona.mp4',
-  'media/videos/ajhsdfhjasdbhfjasdfs.mp4',
-  'media/videos/v09044g40000cgr968jc77u1t2krb89g.mov',
-  'media/videos/intro.mp4',
-  'media/videos/szybkakaczka.mp4', // added by @dan64iel
-  'media/videos/kaczuszka.mp4', //added by @imzeme
-  'media/videos/gratulacje.mp4' //added by @GameShoot8050
+  'https://cdn.discordapp.com/attachments/1388204173719502884/1388948692479774812/VID_20250614_201921_323.mp4',
+  'https://files.catbox.moe/h6ed22.mp4'
 ]
 
 const FILE_DOWNLOADS = [
   'https://files.catbox.moe/h6ed22.mp4',
+  'https://cdn.discordapp.com/attachments/1388204173719502884/1388948692479774812/VID_20250614_201921_323.mp4'
 ]
 
 const PHRASES = [
