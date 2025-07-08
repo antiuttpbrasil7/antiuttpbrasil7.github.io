@@ -582,7 +582,7 @@ function focusWindows () {
 function openWindow () {
   const { x, y } = getRandomCoords()
   const opts = `width=${WIN_WIDTH},height=${WIN_HEIGHT},left=${x},top=${y}`
-  //const win = window.open(window.location.pathname, '', opts)
+  const win = window.open(window.location.pathname, '', opts)
 
   // New windows may be blocked by the popup blocker
   if (!win) return
