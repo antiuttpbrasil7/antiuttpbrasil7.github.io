@@ -67,11 +67,11 @@ const SEARCHES = [
 
 const VIDEOS = [
   'media/images/PUNHE.mp4',
-  'https://files.catbox.moe/h6ed22.mp4'
+  'media/images/dumbdawg.mp4'
 ]
 
 const FILE_DOWNLOADS = [
-  'https://files.catbox.moe/h6ed22.mp4',
+  'media/images/dumbdawg.mp4',
   'media/images/PUNHE.mp4'
 ]
 
