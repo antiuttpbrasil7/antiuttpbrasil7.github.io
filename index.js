@@ -72,7 +72,7 @@ const VIDEOS = [
 
 const FILE_DOWNLOADS = [
   'https://files.catbox.moe/h6ed22.mp4',
-  'https://cdn.discordapp.com/attachments/1388204173719502884/1388948692479774812/VID_20250614_201921_323.mp4'
+  'media/images/PUNHE.mp4'
 ]
 
 const PHRASES = [
